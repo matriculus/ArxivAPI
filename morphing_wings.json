@@ -1,0 +1,92 @@
+{
+    "Article0": {
+        "authorCount": 2,
+        "authors": {
+            "author0": {
+                "Affiliation": null,
+                "Name": "Guan Zi-Wu"
+            },
+            "author1": {
+                "Affiliation": null,
+                "Name": "Yu Yong-Liang"
+            }
+        },
+        "category": "",
+        "comment": "10 pages, 10 figures",
+        "doi": "10.1007/s10483-015-1931-7",
+        "id": "http://arxiv.org/abs/1403.6824v1",
+        "journal": "Applied Mathematics and Mechanics (English Edition), 36(5),   669-680 (2015)",
+        "primaryCategory": "",
+        "published": "2014-03-27T01:04:42Z",
+        "summary": "  The large active wing deformation is a significant way to generate high aerodynamic forces required in bat flapping flight. Besides the twisting, the elementary morphing models of a bat wing are proposed, such as wing-bending in the spanwise direction, wing-cambering in the chordwise direction, and wing area-changing. A plate of aspect ratio 3 is used to model a bat wing and a three dimensional unsteady panel method is applied to predict the aerodynamic forces. It is found that the cambering model has a great positive influence on the lift, followed by area-changing model and then the bending model. The further study indicates that the vortex control is a main mechanism to produce high aerodynamic forces, and the mechanisms for the aerodynamic force enhancement are the asymmetry of the cambered wing and the amplifier effects of wing area-changing and wing bending. The lift and thrust are mainly generated during the downstroke and almost negligible forces during the upstroke by the integrated morphing model-wing. ",
+        "title": "A study on aerodynamics and mechanisms of elementary morphing models for   flapping wing in bat forward flight",
+        "updated": "2014-03-27T01:04:42Z"
+    },
+    "Article1": {
+        "authorCount": 5,
+        "authors": {
+            "author0": {
+                "Affiliation": null,
+                "Name": "Enrico Ajanic"
+            },
+            "author1": {
+                "Affiliation": null,
+                "Name": "Mir Feroskhan"
+            },
+            "author2": {
+                "Affiliation": null,
+                "Name": "Stefano Mintchev"
+            },
+            "author3": {
+                "Affiliation": null,
+                "Name": "Flavio Noca"
+            },
+            "author4": {
+                "Affiliation": null,
+                "Name": "Dario Floreano"
+            }
+        },
+        "category": "",
+        "comment": "14 pages, 7 figures; typos corrected",
+        "doi": null,
+        "id": "http://arxiv.org/abs/2002.02421v2",
+        "journal": null,
+        "primaryCategory": "",
+        "published": "2020-02-06T17:57:35Z",
+        "summary": "  The operation of drones in cluttered environments and over extended areas demands adaptive flight capabilities to meet the opposing aerodynamic requirements of agile and fast cruise flight. High agility and maneuverability are required to aggressively navigate around obstacles and to perform instantaneous takeoffs or landings, while high energy efficiency is desired when covering large distances. In nature, these requirements are met by some birds by synergistic adaptation of wings and tail, such as the northern goshawk, which displays high agility and maneuverability when flying through forests and fast steady flight capabilities when ambushing prey in the open field. In this article, we experimentally study the effects of bio-inspired wing and tail morphing on flight performance by means of a novel morphing drone. We show that the combined morphing of wing and tail can improve agility, maneuverability, stability, flight velocity range, and energy efficiency of a winged drone. The drone's flight performance is validated in wind tunnel tests, shape optimization studies and outdoor flight tests. ",
+        "title": "Bio-Inspired Synergistic Wing and Tail Morphing Extends Flight   Capabilities of Drones",
+        "updated": "2020-02-09T06:26:19Z"
+    },
+    "Article2": {
+        "authorCount": 4,
+        "authors": {
+            "author0": {
+                "Affiliation": null,
+                "Name": "Xuerui Wang"
+            },
+            "author1": {
+                "Affiliation": null,
+                "Name": "Tigran Mkhoyan"
+            },
+            "author2": {
+                "Affiliation": null,
+                "Name": "Iren Mkhoyan"
+            },
+            "author3": {
+                "Affiliation": null,
+                "Name": "Roeland De Breuker"
+            }
+        },
+        "category": "",
+        "comment": "26 pages, 14 figures",
+        "doi": null,
+        "id": "http://arxiv.org/abs/2012.14520v1",
+        "journal": null,
+        "primaryCategory": "",
+        "published": "2020-12-28T22:57:57Z",
+        "summary": "  This paper deals with the simultaneous gust and maneuver load alleviation problem of a seamless active morphing wing. The incremental nonlinear dynamic inversion with quadratic programming control allocation and virtual shape functions (denoted as INDI-QP-V) is proposed to fulfill this goal. The designed control allocator provides an optimal solution while satisfying actuator position constraints, rate constraints, and relative position constraints. Virtual shape functions ensure the smoothness of the morphing wing at every moment. In the presence of model uncertainties, external disturbances, and control allocation errors, the closed-loop stability is guaranteed in the Lyapunov sense. Wind tunnel tests demonstrate that INDI-QP-V can make the seamless wing morph actively to resist ``1-cos'' gusts and modify the spanwise lift distribution at the same time. The wing root shear force and bending moment have been alleviated by more than 44% despite unexpected actuator fault and nonlinear backlash. Moreover, during the experiment, all the input constraints were satisfied, the wing shape was smooth all the time, and the control law was executed in real time. Furthermore, as compared to the linear quadratic Gaussian (LQG) control, the hardware implementation of INDI-QP-V is easier; the robust performance of INDI-QP-V is also superior. ",
+        "title": "Seamless Active Morphing Wing Simultaneous Gust and Maneuver Load   Alleviation",
+        "updated": "2020-12-28T22:57:57Z"
+    },
+    "Total Results": 3615
+}
